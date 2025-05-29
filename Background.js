@@ -1,4 +1,5 @@
 chrome.declarativeNetRequest.updateDynamicRules({
+    removeRuleIds: [1, 2],
     addRules: [
         {
             id: 1,
