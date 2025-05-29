@@ -1,7 +1,7 @@
 # How to Load a Chrome Extension in Developer Mode
 
 ## Prerequisites
-* Download or clone the extension files to your computer.
+* Clone this repository or download the source code. 
 * Ensure the extension has a manifest.json file in its root folder.
 
 ## Steps
