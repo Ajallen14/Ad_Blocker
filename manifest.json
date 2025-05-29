@@ -4,8 +4,7 @@
     "manifest_version" : 3,
     "description" : "A Simple and basic Ad blocker for websites",
     "permissions" : [
-        "declarativeNetRequest",
-        "activeTab"
+        "declarativeNetRequest"
     ],
     "host_permissions" : [
         "<all_urls>"

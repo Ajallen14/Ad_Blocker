@@ -18,5 +18,5 @@ chrome.declarativeNetRequest.updateDynamicRules({
                 resourceTypes: ["script", "image", "sub_frame"]
             }
         }
-    ],
+    ]
 });
