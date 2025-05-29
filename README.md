@@ -11,7 +11,7 @@
 ```
 chrome://extensions  
 ```
-* Alternatively, click ⋮ (Menu) → Extensions → Manage Extensions.
+* Alternatively, click ⋮ (Menu) -> Extensions -> Manage Extensions.
 
 2. **Enable Developer Mode**
 * Toggle the switch in the top-right corner labeled **Developer mode** to **ON**.
