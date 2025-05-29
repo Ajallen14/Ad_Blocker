@@ -15,4 +15,10 @@
     "background" : {
         "service_worker" : "Background.js",
     },
+    "content_scripts" : [
+        {
+            "matches" : ["<all_urls>"],
+            "js" : ["Content.js"]
+        }
+    ]
 }
