@@ -1,0 +1,18 @@
+{
+    "name" : "Simple Ad Blocker",
+    "version" : "1.0.0",
+    "manifest_version" : 3,
+    "description" : "A Simple and basic Ad blocker for websites",
+    "permissions" : [
+        "webRequest",
+        "webRequestBlocking",
+        "declarativeNetRequest",
+        "activeTab"
+    ],
+    "host_permission" : [
+        "<all_urls>"
+    ],
+    "background" : {
+        "service_worker" : "Background.js",
+    },
+}
