@@ -28,3 +28,6 @@ chrome://extensions
 
 * The extension will appear in your extensions list with an "Errors" button if there are issues.
 * Check the Chrome toolbar (top-right) for the extension’s icon.
+
+  # **VIDEO**
+  [Screencast from 2025-05-30 00-35-48.webm](https://github.com/user-attachments/assets/d5cf7e80-c3f4-49b5-bf71-345e5ff8643b)
