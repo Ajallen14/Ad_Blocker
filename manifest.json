@@ -4,7 +4,7 @@
     "manifest_version" : 3,
     "description" : "A Simple and basic Ad blocker for websites",
     "icons" : {
-        "128" : ""
+        "128" : "icon/icon128.png"
     },
     "permissions" : [
         "declarativeNetRequest"
