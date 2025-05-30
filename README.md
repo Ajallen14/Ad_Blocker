@@ -1,4 +1,4 @@
-# How to Load a Chrome Extension in Developer Mode
+# How to Load a Chrome Extension
 
 ## Prerequisites
 * Clone this repository or download the source code. 
