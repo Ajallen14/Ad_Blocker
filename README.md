@@ -31,4 +31,4 @@ chrome://extensions
 
   # **VIDEO**
   
-[Screencast from 2025-05-30 14-35-48.webm](https://github.com/user-attachments/assets/2c96a679-a443-4ff7-839a-38e770b8c2f3)
+[Record](https://github.com/user-attachments/assets/2c96a679-a443-4ff7-839a-38e770b8c2f3)
