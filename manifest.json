@@ -3,6 +3,9 @@
     "version" : "1.0.0",
     "manifest_version" : 3,
     "description" : "A Simple and basic Ad blocker for websites",
+    "icons" : {
+        "128" : ""
+    },
     "permissions" : [
         "declarativeNetRequest"
     ],
