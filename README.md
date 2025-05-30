@@ -30,4 +30,5 @@ chrome://extensions
 * Check the Chrome toolbar (top-right) for the extension’s icon.
 
   # **VIDEO**
-  [Screencast from 2025-05-30 00-35-48.webm](https://github.com/user-attachments/assets/d5cf7e80-c3f4-49b5-bf71-345e5ff8643b)
+  
+[Screencast from 2025-05-30 14-35-48.webm](https://github.com/user-attachments/assets/2c96a679-a443-4ff7-839a-38e770b8c2f3)
